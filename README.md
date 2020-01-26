@@ -6,4 +6,3 @@
 ``
 python3 simu_monty_hall.py [numbers of door] [numbers of simulation]
 ``
-
